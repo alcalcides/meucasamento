@@ -1,0 +1,27 @@
+@charset = "UTF-8";
+
+p{
+ 	text-align: left;
+}
+
+p.despedida {
+	text-align: center;
+	margin: 0px auto;
+}
+
+img#capaNoivos {
+	width: 300px;
+	margin: 20px auto;
+	border-style: outset;
+	border-color: rgb(0,85,43);
+	border-width: 1px;
+	-webkit-transition: all .4s ease-in;
+	-moz-transition: all .4s ease-in;
+	-ms-transition: all .4s ease-in;
+	-o-transition: all .4s ease-in;
+	transition: all .4s ease-in;
+}
+
+img#capaNoivos:hover {
+	width: 700px;
+}

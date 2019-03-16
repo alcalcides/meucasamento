@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+article.formulario fieldset {
+	margin-top: 15px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+fieldset p {
+	margin: 10px;
+	font-size: 12pt;
+}
+
+fieldset legend {
+	font-size: 11pt;
+}
+
+article.formulario p#pFoto span#tamanhoFoto {
+	font-size: 9.5pt;
+}
+
+fieldset#PreechaParaEntrar legend span#detalheLogin {
+	font-size: 10pt;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+input#idNome {
+	width: 500px;
+}

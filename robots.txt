@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_acoes/
+Disallow: /_bancoDados/
+Disallow: /_usuarios/
+Disallow: /login.php

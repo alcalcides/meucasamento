@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+legend {
+	//text-align: left;
+	//margin-left: 100px;
+}
+
+.dadosVelhos {
+	font-size: 9pt;
+}
+
+.dadosNovos {
+	font-weight: bold;
+}
+
+fieldset {
+	border-width: 1px;
+	border-color: rgb(0,85,43);
+	border-bottom: none;
+	margin-bottom: 10px;
+}
+
+fieldset legend {
+	font-size: 15pt;
+}
+
+img.fotoAntiga {
+	width: 650px;	
+	box-shadow: 1px 1px 3px white;
+}
+
+input.alinhaEsquerda {
+	display: block;
+	text-align: left;
+}

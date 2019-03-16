@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+article.perfilPessoal p { 
+	font-size: 11pt;
+}
+
+article.perfilPessoal figure.fotoGrande img {
+	width: 600px;
+	box-shadow: 1px 1px 2px black;
+}
+
+.respPessoal {
+	font-size: 12pt;
+}

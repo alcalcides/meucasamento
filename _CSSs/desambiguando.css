@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+table.candidato {
+	margin-bottom: 10px;
+	border-spacing: 0px;
+}
+
+td {
+	vertical-align: top;
+	margin: 0px;
+	padding: 0px;
+}
+
+img.carinha {
+	height: 100px; 
+	-webkit-transition: width 2s, height 4s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s, height 4s;
+}
+
+img.carinha:hover {
+	height: auto;
+	width: 500px;
+}
+
+a button {
+	display: block;
+	text-align: left;
+	margin-left: 5px;
+}
+
+a{
+	text-decoration: none;
+}
+
+iframe {
+	padding: 0px;
+	margin: 0px;
+	height: 15px;
+	border: none;
+}
